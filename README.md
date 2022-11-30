@@ -21,7 +21,7 @@ All great projects start with collaboration. Pull requests are the foundation of
 
 
 
-<summary><h2>Step 1: Assign yourself as a reviewer</h2></summary>
+<summary><h2>Step 1: Create New Pull Request</h2></summary>
 
 _Welcome to "Review pull requests"! :wave:_
 
@@ -29,18 +29,13 @@ _Welcome to "Review pull requests"! :wave:_
 
 The best way to get a review is to ask for one. On GitHub, you can ask someone to review a pull request by assigning them as a reviewer. If you are not ready for review, consider [creating a draft pull request] instead.
 
-### Activity: Assign yourself as a reviewer
+### Activity: Create New Pull Request
 
 1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. We made a pull request for you from the `update-game` branch, so open that pull request.
-1. Under **Reviewers** on the right side of the screen, add yourself as a reviewer.
-
-Next, wait about 20 seconds for actions to run, then refresh this course's README.
+2. Create `update-game` branch and make some changes in `index.html` and open new pull request.
 
 
 <summary><h2>Step 2: Leave a review</h2></summary>
-
-_You assigned yourself as a reviewer! :tada:_
 
 Pull request reviews ensure quality and maintain momentum of changes to your project.
 
@@ -92,11 +87,7 @@ Now that you have explored the different ways you can review a pull request it i
 1. Edit the suggestion.
 1. Click **Add a single comment**.
 
-Next, wait about 20 seconds for actions to run, then refresh this course's README.
-
 <summary><h2>Step 4: Apply suggested changes</h2></summary>
-
-_Nicely done suggesting changes! :partying_face:_
 
 Now let's see how easy it is to [apply your suggestion].
 
@@ -106,11 +97,7 @@ Now let's see how easy it is to [apply your suggestion].
 1. Type a commit message.
 1. Click **Commit changes**.
 
-Next, wait about 20 seconds for actions to run, then refresh this course's README.
-
 <summary><h2>Step 5: Merge your pull request</h2></summary>
-
-_Almost there! :heart:_
 
 You can now [merge] your pull request!
 
@@ -122,11 +109,7 @@ You can now [merge] your pull request!
 Next, wait about 20 seconds for actions to run, then refresh this course's README.
 
 
-
-
 <summary><h2>Finish</h2></summary>
-
-_Congratulations friend, you've completed this course!_
 
 As you continue working on GitHub, remember that high quality reviews improve your projects. If you are new to a repository, inquire about what review practices they have so you can hit the ground running.
 
